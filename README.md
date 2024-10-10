@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 Not really working on anything just because school takes so much of my time :(
+- 🔭 Not working on anything just because school takes so much of my time :(
 - 🌱 I’m currently learning how to Program with the GitHub Education plan
 - 👯 I’m looking to collaborate on any projects that might need a second person to help with
 - 🤔 I’m looking for help with understanding the best way to learn how to program before I get into University
@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've been playing guitar since I was 7
 - A bit more about me:
-I am a HS student, aged 15 from London, England. 
-Lived in Spain for most of my childhood but recently moved to Thailand. 
-I enjoy tech related stuff and would like to dive deeper into the "behin the scenes" segment of computers. 
+I am an HS student, aged 15 from London, England. 
+I Lived in Spain for most of my childhood but recently moved to Thailand. 
+I enjoy tech related-stuff and would like to dive deeper into the "behind the scenes" segment of computers. 
 Aside from tech, I practice guitar and work out regularly to keep a balance. 
