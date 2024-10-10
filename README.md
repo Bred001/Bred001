@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**Bred001/Bred001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 Not really working on anything just because school takes so much of my time :(
 - 🌱 I’m currently learning how to Program with the GitHub Education plan
 - 👯 I’m looking to collaborate on any projects that might need a second person to help with
