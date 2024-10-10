@@ -12,4 +12,4 @@
 I am a HS student, aged 15 from London, England. 
 Lived in Spain for most of my childhood but recently moved to Thailand. 
 I enjoy tech related stuff and would like to dive deeper into the "behin the scenes" segment of computers. 
-Aside from tech, I practice guitar regularly and work out regularly to keep a balance. 
+Aside from tech, I practice guitar and work out regularly to keep a balance. 
